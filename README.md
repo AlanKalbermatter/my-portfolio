@@ -1,13 +1,4 @@
 <h1 class="fancy-title">Portfolio Project - Planning and Design</h1>
-<style>
-  .fancy-title {
-    font-family: "Arial", sans-serif;
-    font-size: 2rem;
-    color: cadetblue;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-  }
-</style>
 
 Welcome to my Portfolio Project repository! This project serves as a showcase of my skills and work in software development. The goal is to create a personal portfolio website that demonstrates my expertise, projects, and achievements. This README provides an overview of the project and instructions on how to set it up.
 
